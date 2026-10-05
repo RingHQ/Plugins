@@ -6,7 +6,6 @@ the ring like any built-in one, or reacts to what Ring does.
 
 | Plugin | What it does |
 |---|---|
-| [daily](daily/) | Counts the windows moved each day; a note at round numbers. |
 | [layouts](layouts/) | Remember where your windows are and put them back later. |
 | [presets](presets/) | The window centered, at one of three sizes. |
 | [rgb](rgb/) | The ring runs through the rainbow while it is open. |
